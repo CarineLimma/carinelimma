@@ -21,9 +21,5 @@ Cada repositório aqui representa uma etapa da minha jornada 🚀
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 
 
----
-
-_“Transformando ideias em projetos incríveis com propósito.”_
-
 
 -->
